@@ -12,8 +12,8 @@ public class Duplicate {
         removeDuplicate(list);
 
         // print list
-        for (Integer inn : list) {
-            System.out.println(inn);
+        for (Integer integer: list) {
+            System.out.println(integer);
         }
         
     }
